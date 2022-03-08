@@ -3,4 +3,4 @@
 
 # duke-azurehello
 this is my demo project to show azure ml devops integration
-you can see the steps to create this project [here] (https://github.com/noahgift/azure-ml-devops)
+you can see the steps to create this project [here](https://github.com/noahgift/azure-ml-devops)
